@@ -18,7 +18,7 @@
 # Blue Lion Whatsapp Bot
 
 
-Queen elisa whatsapp bot is,
+Blue Lion whatsapp bot is,
 
       Blue Lion whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
@@ -26,12 +26,18 @@ Queen elisa whatsapp bot is,
 
  ### FORK BLUE LION REPO
        
-●.  ***Click [FORK](https://github.com/akiyabota)***
+●.  ***Click👉 [FORK](https://github.com/akiyabota)***
     
  <p align="left">
-<a href="https://github.com/shashikabot/-Queen-Nethu-MD-Bot-/fork"><img align="center" src="https://i.ibb.co/6JPLzq0/3105206-f081-5-removebg-preview.png" alt="Fork and deploy" height="35" width="150" /></a>   
+<a href="https://github.com/akiyabota"><img align="center" src="https://i.ibb.co/n0DTPxs/Whats-App-Image-2023-06-16-at-15-06-03.jpg" alt="Fork and deploy" height="35" width="150" /></a>   
     
-  ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
+  
+ 
+ ### ıllıllı ＳＣＡＮ ＱＲ ＣＯＤＥ ıllıllı
+ 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/HumblePastelOrganization)
+
+### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashikabot/-Queen-Nethu-MD-Bot-.git)
@@ -46,10 +52,6 @@ Queen elisa whatsapp bot is,
 </p>
  
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/mrhansamala/-Queen-Nethu-MD-Bot-)
- 
- ### ıllıllı ＳＣＡＮ ＱＲ ＣＯＤＥ ıllıllı
- 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/HumblePastelOrganization)
     
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HOW+TO+DEVOLP+BY;MADE+BY+MR+SHADOW.)](https://git.io/typing-svg)
    
