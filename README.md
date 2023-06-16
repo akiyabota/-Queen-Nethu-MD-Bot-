@@ -1,4 +1,4 @@
-<div="center">
+<div align="center">
 <details>
     <summary>⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b></summary>
 
@@ -7,11 +7,11 @@
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+BOT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT;MADE+BY+AKILA+SARANGA+&+NIPUNA+RANGANA](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com">
-    <img src="https://i.ibb.co/5R3pFFp/68747470733a2f2f692e6962622e636f2f68386d484c6a382f3130333930323033362d72656d6f766562672d707265766965.png">
+    <img src="https://i.ibb.co/n0DTPxs/Whats-App-Image-2023-06-16-at-15-06-03.jpg">
   </a>
   
 
