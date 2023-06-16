@@ -1,6 +1,6 @@
-<div align="center">
+<div="center">
 <details>
-   <h1> ⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b></h1>
+    <summary>⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b></summary>
 
   
 <div align="center">
