@@ -7,7 +7,7 @@
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT;MADE+BY+AKILA+SARANGA+&+NIPUNA+RANGANA)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT;MADE+BY+CYBER+TECH+TEAM)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com">
@@ -15,11 +15,14 @@
   </a>
   
 
-# Queen Nethu MD Bot
+# Blue Lion Whatsapp Bot
 
->Blue Lion MD Bot is a multipurpose WhatsApp bot using library!
->
->
+
+Queen elisa whatsapp bot is,
+
+      Blue Lion whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+
+
 
  ### FORK BLUE LION REPO
        
