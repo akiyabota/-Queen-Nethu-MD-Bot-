@@ -1,6 +1,5 @@
-<div align="center">
-<details>
-   ⏬<b>(🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b>
+
+    <summary>⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b></summary>
 
   
 <div align="center">
@@ -17,18 +16,19 @@
 
 # Queen Nethu MD Bot
 
-> Queen Nethu MD Bot is a multipurpose WhatsApp bot using library!
+>Blue Lion MD Bot is a multipurpose WhatsApp bot using library!
 >
 >
 
- ### FORK QUEEN NETHU REPO
+ ### FORK BLUE LION REPO
        
-●.  ***Click [FORK](https://github.com/prabathLK/PRABATH-MD/fork)***
+●.  ***Click [FORK](https://github.com/akiyabota)***
     
  <p align="left">
 <a href="https://github.com/shashikabot/-Queen-Nethu-MD-Bot-/fork"><img align="center" src="https://i.ibb.co/6JPLzq0/3105206-f081-5-removebg-preview.png" alt="Fork and deploy" height="35" width="150" /></a>   
     
-  ### ıllıllı ＳＣＡＮ ＱＲ ＣＯＤＥ ıllıllı
+  ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashikabot/-Queen-Nethu-MD-Bot-.git)
      </div>
