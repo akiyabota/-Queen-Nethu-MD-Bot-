@@ -7,7 +7,7 @@
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT;MADE+BY+AKILA+SARANGA+&+NIPUNA+RANGANA](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com">
