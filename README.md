@@ -33,11 +33,11 @@ Blue Lion whatsapp bot is,
     
   
  
- ### ıllıllı ＳＣＡＮ ＱＲ ＣＯＤＥ ıllıllı
+### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/HumblePastelOrganization)
 
-### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
+ ### ıllıllı  𝗗𝗘𝗣𝗟𝗢𝗬 ıllıllı
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashikabot/-Queen-Nethu-MD-Bot-.git)
