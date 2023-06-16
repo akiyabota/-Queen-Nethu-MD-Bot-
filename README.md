@@ -37,7 +37,10 @@ Blue Lion whatsapp bot is,
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/HumblePastelOrganization)
 
- ### ıllıllı  𝗗𝗘𝗣𝗟𝗢𝗬 ıllıllı
+
+
+
+ ### ✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashikabot/-Queen-Nethu-MD-Bot-.git)
