@@ -67,13 +67,20 @@ Blue Lion whatsapp bot is,
    
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFFFF000&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
   
-#  I am Shashika Chirath Hansamala  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+#  🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+
+* [🧑‍💻 Join Blue Lion Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
+
+* [🧑‍💻 Join Blue Lion Support Group 🧑‍💻](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+
+     
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
 <br>
 <div>
-<h2 align="center">💖 ~ thnx for read ~ 💖</h2>
+<h2 align="center">✊ THANKS FOR YOUR ✊</h2>
 <div align="center">
-<img src="https://imgur.com/3U14d9C">
+<img src="https://i.ibb.co/3hR3CDK/Whats-App-Image-2023-06-13-at-20-02-23.jpg">
 </div>
 <hr>
 </div>
