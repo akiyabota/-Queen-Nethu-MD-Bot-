@@ -56,7 +56,7 @@ Blue Lion whatsapp bot is,
  
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/mrhansamala/-Queen-Nethu-MD-Bot-)
     
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HOW+TO+DEVOLP+BY;MADE+BY+MR+SHADOW.)](https://git.io/typing-svg)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HOW+TO+DEVOLP+BY;MADE+BY+CYBER+TECH+TEAM..)](https://git.io/typing-svg)
    
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFF000&lines=1.+Fork+This+Repo)](https://git.io/typing-svg)
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFF000&lines=2.+Scan+QR+Code)](https://git.io/typing-svg)
@@ -74,13 +74,13 @@ Blue Lion whatsapp bot is,
 * [🧑‍💻 Join Blue Lion Support Group 🧑‍💻](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
 
      
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
+ #      ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
 <br>
 <div>
 <h2 align="center">✊ THANKS FOR YOUR ✊</h2>
 <div align="center">
-<img src="https://i.ibb.co/3hR3CDK/Whats-App-Image-2023-06-13-at-20-02-23.jpg">
+<img src="**">
 </div>
 <hr>
 </div>
